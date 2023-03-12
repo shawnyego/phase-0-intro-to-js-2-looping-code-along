@@ -1,5 +1,5 @@
 // Code your solutions in this file
-let names = [`steven`, `kiptoo`, `yabann`]
+let names = [`shawn`, `kigen`, `yego`]
 message = [``]
 
 function writeCards(names, event){
